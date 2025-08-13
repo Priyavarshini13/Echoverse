@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Uploads and audio files
+uploads/
+
+# Database
+*.db
+
+# IDE files
+*.idea/
+*.vscode/
+
